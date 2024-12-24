@@ -1,0 +1,12 @@
+{
+	"name": "Dark Grid",
+	"version": "1.1.9",
+	"author": "CloudArcade",
+	"description": "Dark Grid Theme",
+	"website": "https://cloudarcade.net",
+	"release_date": "19/12/2023",
+	"changelog": "Implementation of vertical widget and RTL system.",
+	"type":"theme",
+	"html": "<div class=\"bs-callout bs-callout-warning\">\n\tAfter theme update, all of your Game List widget will not work, the widget is refactored in this update for better code and features, you need to re-implement the Game List widget.\n</div>\n<p>\n\t<h4>Grid and Vertical layout Game List</h4>\n\t<img src=\"https://cloudarcade.net/images/tu-prev-1.png\">\n</p>\n<p>\n\t<h4>Multilevel dropdown menus</h4>\n\t<img src=\"https://cloudarcade.net/images/tu-prev-2.png\">\n</p>",
+	"target_version": "1.8.0"
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Cloudarcade WP",
+	"version": "1.0.0",
+	"author": "CloudArcade",
+	"description": "Integrate CloudArcade with your Wordpress site.",
+	"documentation": "https://cloudarcade.net/tutorial/cloudarcade-wp-plugin-integration/",
+	"website": "https://cloudarcade.net",
+	"require_version": "1.7.8",
+	"tested_version": "1.7.8",
+	"last_update": "08/11/2023",
+	"type": "plugin",
+	"target": "admin",
+	"require_login": false
+}
