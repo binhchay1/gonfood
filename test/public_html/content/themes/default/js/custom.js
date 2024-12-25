@@ -1,7 +1,0 @@
-/*
-
-Custom script
-
-This file will not be overwritten by the updater
-
-*/
